@@ -6,9 +6,9 @@ We will show it in 2025.
 # Done:
 Core 2.1
 UI (25%)
-# Soon:\n
-UI(the left)
-Net Support(0%)
-Installer(0%)
-Applications(0%)
+# Soon: 
+UI(the left)                                                          
+Net Support(0%)                                                           
+Installer(0%)                   
+Applications(0%)                      
 }
